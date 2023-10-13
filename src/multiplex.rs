@@ -1,6 +1,6 @@
 use rand::{thread_rng, Rng};
 use std::{
-    sync::{Arc, Condvar, Mutex, RwLock},
+    sync::{Arc, Condvar, Mutex},
     thread,
     time::Duration,
 };
